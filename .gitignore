@@ -1,0 +1,10 @@
+# Design files (please do not remove 🙂)
+*.sketch
+*.fig
+*.xd
+
+# Readme files
+AGENTS.md
+CLAUDE.md
+README-instrucoes.md
+style-guide.md
